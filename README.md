@@ -35,7 +35,7 @@ I also contributed to general feature development and collaborated on overall ar
 Clone the repo:
 
 ```bash
-git clone https://github.com/jesperringhog/webshop-godisrattan.git
+git clone https://github.com/jesperringhog/the-webshop.git
 cd webshop-godisrattan
 ```
 Then open the project in your browser.
@@ -70,4 +70,4 @@ Note: No build step is required unless additional tooling is added.
 
 ## Repository
 
-https://github.com/jesperringhog/webshop-godisrattan.git
+https://github.com/jesperringhog/the-webshop.git
