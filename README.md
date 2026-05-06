@@ -27,8 +27,9 @@ Work was distributed fairly evenly across the team, but my primary contributions
 - Refactoring code to improve structure and readability
 - Identifying and fixing bugs across different parts of the application
 - Structuring and maintaining SCSS for consistent and scalable styling
+- Designing the UX and interface in Figma, including layout, user flows, and component structure
 
-I also contributed to general feature development and collaborated on overall architecture decisions.
+I also contributed to general feature development and collaborated on overall architecture decisions, helping ensure a cohesive connection between design and implementation.
 
 ## Installation
 
